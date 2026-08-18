@@ -2,4 +2,4 @@
 
 mesg="this is script2"
 
-echo"hi from: $mesg"
+echo "hi from: $mesg"

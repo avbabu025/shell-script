@@ -1,6 +1,6 @@
 #!/bin/bash
-Ganapathi1=MAHA
-Ganapathi2=BABU
+Ganapathi1=$1 #MAHA
+Ganapathi2=$2 #BABU
 
 
 echo "Babu:; Hi maha "
